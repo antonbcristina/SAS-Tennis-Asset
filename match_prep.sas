@@ -44,7 +44,7 @@ run;
 /*All matches by year for players of interest*/
 proc sql;
 	create table all_matches as
-	select p.player_id, p.player, /*tourney_name, m.* */ tourney_name, tourney_level, tourney_date, winner_id, w_ace, w_df, loser_id, l_ace, l_df, score 
+	select p.Player_ID, p.Player, Tourney_Name, Tourney_Level, Tourney_Date, Winner_ID, W_Ace, W_Df, Loser_ID, L_Ace, L_Df, Score 
 	from tennis.all_matches as m inner join tennis.demo as p
 	on (p.player_id=m.winner_id or p.player_id=m.loser_id) 
 	order by 1, 3;
@@ -159,6 +159,7 @@ data all_player_matches;
 run;
 
 data tennis.demo_rank_matches;
+	retain Player_ID Player DOB Gender Hand IOC Height Year Rank Points Tourneys Slams Matches W L Win_Per Max_Ace Max_Df Total_Ace Total_Df;
 	merge tennis.demo_rank all_player_matches;
 	by player_id year;
 run;

@@ -72,16 +72,19 @@ proc sort data=tennis.earnings out=earnings;
 run;
 
 data tennis.demo;
-	merge earnings(in=a) players(in=b);
+	retain player_id player dob gender;
+	merge players(in=b) earnings(in=a) ;
 	by player;
-	if a;
-	drop nationality;
+	if a;	
 run;
 
 *Make variable name capitalization consistent;
 proc datasets lib=tennis nolist;
   modify demo;
      rename player_id=Player_ID
+	 		player=Player
+			dob=DOB
+			gender=Gender
             hand=Hand
             ioc=IOC
             height=Height;
@@ -127,14 +130,23 @@ proc sort data=tennis.demo out=demo;
 run;
 
 data tennis.demo_rank;
-	merge rankings2 demo(in=a);
-	by Player_id ;
+	retain player_id player dob gender hand ioc height year;
+	merge demo(in=a) rankings2 ;
+	by Player_ID ;
 	if a;
 run;
 
 *Make variable name capitalization consistent;
 proc datasets lib=tennis nolist;
   modify demo_rank;
-     rename rank=Rank
-            points=Points;
+     rename player_id=Player_ID
+	 		player=Player
+			dob=DOB
+			gender=Gender
+            hand=Hand
+            ioc=IOC
+            height=Height
+			year=Year
+			rank=Rank
+			points=Points;
 run;
