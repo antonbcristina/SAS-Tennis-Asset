@@ -1,0 +1,302 @@
+Name,Nationality,Current_Rank,Previous_Year_Rank,Sport,Year,Earnings,Team_Sport
+Mike Tyson,United States,1,,Boxing,1990,28.6,No
+Buster Douglas,United States,2,,Boxing,1990,26,No
+Sugar Ray Leonard,United States,3,,Boxing,1990,13,No
+Ayrton Senna,Brazil,4,,NASCAR,1990,10,Yes
+Alain Prost,France,5,,NASCAR,1990,9,Yes
+Jack Nicklaus,United States,6,,Golf,1990,8.6,No
+Greg Norman,Australia,7,,Golf,1990,8.5,No
+Michael Jordan,United States,8,,Basketball,1990,8.1,Yes
+Arnold Palmer,United States,8,,Golf,1990,8.1,No
+Evander Holyfield,United States,8,,Boxing,1990,8.1,No
+Evander Holyfield,United States,1,8,Boxing,1991,60.5,No
+Mike Tyson,United States,2,1,Boxing,1991,31.5,No
+Michael Jordan,United States,3,8,Basketball,1991,16,Yes
+George Foreman,United States,4,>30,Boxing,1991,14.5,No
+Ayrton Senna,Brazil,5,4,NASCAR,1991,13,Yes
+Alain Prost,France,6,5,NASCAR,1991,11,Yes
+"Donovan ""Razor"" Ruddock",Canada,7,>30,Boxing,1991,10.2,No
+Arnold Palmer,United States,8,8,Golf,1991,9.3,No
+Nigel Mansell,United Kingdom,9,12,NASCAR,1991,9,Yes
+Sugar Ray Leonard,United States,10,6,Golf,1991,8.5,No
+Michael Jordan,United States,1,3,Basketball,1992,35.9,Yes
+Evander Holyfield,United States,2,1,Boxing,1992,28,No
+Ayrton Senna,Brazil,3,5,NASCAR,1992,22,Yes
+Nigel Mansell,United Kingdom,4,9,NASCAR,1992,14.5,Yes
+Arnold Palmer,United States,5,8,Golf,1992,11.1,No
+Andre Agassi,United States,6,17,Tennis,1992,11,No
+Joe Montana,United States,7,13,American Football,1992,9.5,Yes
+Sugar Ray Leonard,United States,8,10,Golf,1992,9.2,No
+Jim Courier,United States,9,>40,Tennis,1992,9,No
+Monica Seles,United States,10,12,Tennis,1992,8.5,No
+Michael Jordan,United States,1,1,Basketball,1993,36,Yes
+Riddick Bowe,United States,2,>40,Boxing,1993,25,No
+Ayrton Senna,Brazil,3,3,NASCAR,1993,18.5,Yes
+Alain Prost,France,4,>40,NASCAR,1993,16,Yes
+George Foreman,United States,5,19,Boxing,1993,15.8,No
+Shaquille O'Neal,United States,6,>40,Basketball,1993,15.2,Yes
+Lennox Lewis,United States,7,>40,Boxing,1993,15,No
+Cecil Fielder,United States,8,40,Baseball,1993,12.7,Yes
+Jim Courier,United States,9,9,Tennis,1993,12.6,No
+Joe Montana,United States,10,7,American Football,1993,11.5,Yes
+Michael Jordan,United States,1,1,Basketball,1994,30,Yes
+Shaq O'Neal,United States,2,6,Basketball,1994,16.7,Yes
+Jack Nicklaus,United States,3,13,Golf,1994,14.8,No
+Arnold Palmer,United States,4,11,Golf,1994,13.6,No
+Gerhard Berger,Austria,5,30,NASCAR,1994,13.5,Yes
+Wayne Gretzky,Canada,5,22,Ice Hockey,1994,13.5,Yes
+Michael Moorer,United States,7,>40,Boxing,1994,12.1,No
+Evander Holyfield,United States,8,12,Boxing,1994,12,No
+Andre Agassi,United States,9,20,Tennis,1994,11.4,No
+Nigel Mansell,United Kingdom,10,19,NASCAR,1994,11.3,Yes
+Michael Jordan,United States,1,1,Basketball,1995,43.9,Yes
+Mike Tyson,United States,2,not ranked,Boxing,1995,40,No
+Deion Sanders,United States,3,38,American Football / Baseball,1995,22.5,Yes
+Riddick Bowe,United States,4,not ranked,Boxing,1995,22.2,No
+Shaquille O'Neal,United States,5,2,Basketball,1995,21.9,Yes
+George Foreman,United States,6,15,Boxing,1995,18,No
+Andre Agassi,United States,7,9,Tennis,1995,16,No
+Sugar Ray Leonard,United States,8,3,Golf,1995,15.1,No
+Michael Schumacher,Germany,9,30,NASCAR,1995,15,Yes
+Wayne Gretzky,Canada,10,5,Ice Hockey,1995,14.5,Yes
+Mike Tyson,United States,1,2,Boxing,1996,75,No
+Michael Jordan,United States,2,1,Basketball,1996,52.6,Yes
+Michael Schumacher,Germany,3,9,F1 Racing,1996,33,Yes
+Shaquille O'Neal,United States,4,5,Basketball,1996,24.4,Yes
+Emmit Smith,United States,5,not ranked,American Football,1996,16.5,Yes
+Evander Holyfield,United States,6,14,Boxing,1996,15.5,No
+Andre Agassi,United States,7,7,Tennis,1996,15.2,No
+Arnold Palmer,United States,8,11,Golf,1996,15.1,No
+Dennis Rodman,United States,9,not ranked,Basketball,1996,12.9,Yes
+Patrick Ewing,United States,9,19,Basketball,1996,12.9,Yes
+Michael Jordan,United States,1,2,Basketball,1997,78.3,Yes
+Evander Holyfield,United States,2,6,Boxing,1997,54.3,No
+Oscar De La Hoya,United States,3,17,Boxing,1997,38,No
+Michael Schumacher,Germany,4,3,F1 Racing,1997,35,Yes
+Mike Tyson,United States,5,1,Boxing,1997,27,No
+Tiger Woods,United States,6,26,Golf,1997,26.1,No
+Shaquille O'Neal,United States,7,4,Basketball,1997,25.4,Yes
+Dale Earnhardt,United States,8,20,NASCAR,1997,19.1,Yes
+Joe Sakic,Canada,9,none,Ice Hockey,1997,17.9,Yes
+Grant Hill,United States,10,18,Basketball,1997,17,Yes
+Michael Jordan,United States,1,,Basketball,1998,69,Yes
+Michael Schumacher,Germany,2,,F1 Racing,1998,38,Yes
+Sergei Federov,Russia,3,,Ice Hockey,1998,29.8,Yes
+Tiger Woods,United States,4,,Golf,1998,26.8,No
+Dale Earnhardt,United States,5,,NASCAR,1998,24.1,Yes
+Grant Hill,United States,6,,Basketball,1998,21.6,Yes
+Oscar De La Hoya,United States,7,,Boxing,1998,18.5,No
+Patrick Ewing,United States,8,,Basketball,1998,18.3,Yes
+Arnold Palmer,United States,9,,Golf,1998,18.1,No
+Gary Sheffield,United States,10,,Baseball,1998,17.2,Yes
+Michael Schumacher,Germany,1,2,NASCAR,1999,49,Yes
+Tiger Woods,United States,2,4,Golf,1999,47,No
+Oscar De La Hoya,United States,3,7,Boxing,1999,43.5,No
+Michael Jordan,United States,4,1,Basketball,1999,40,Yes
+Evander Holyfield,United States,5,>10,Boxing,1999,35.5,No
+Mike Tyson,United States,6,>10,Boxing,1999,33,No
+Shaq O'Neal,United States,7,>10,Basketball,1999,31,Yes
+Lennox Lewis,United States,8,>10,Boxing,1999,29,No
+Dale Earnhardt,United States,9,5,NASCAR,1999,26.5,Yes
+Grant Hill,United States,10,6,Basketball,1999,23,Yes
+Michael Schumacher,Germany,1,1,NASCAR,2000,59,Yes
+Tiger Woods,United States,2,2,Golf,2000,53,No
+Mike Tyson,United States,3,6,Boxing,2000,48,No
+Michael Jordan,United States,4,4,Basketball,2000,37,Yes
+Grant Hill,United States,5,10,Basketball,2000,26,Yes
+Dale Earnhardt,United States,6,9,NASCAR,2000,24.5,Yes
+Shaq O'Neal,United States,7,7,Basketball,2000,24,Yes
+Lennox Lewis,United States,8,8,Boxing,2000,23,No
+Oscar De La Hoya,United States,9,3,Boxing,2000,23,No
+Kevin Garnett,United States,10,>10,Basketball,2000,21,Yes
+Tiger Woods,United States,1,2,Golf,2002,69,No
+Michael Schumacher,Germany,2,1,F1 Racing,2002,67,Yes
+Michael Jordan,United States,3,4,Basketball,2002,36,Yes
+Lennox Lewis,United States,4,8,Boxing,2002,28,No
+Grant Hill,United States,5,5,Basketball,2002,24,Yes
+Shaquille O'Neal,United States,5,7,Basketball,2002,24,Yes
+Mike Tyson,United States,7,3,Boxing,2002,23,No
+Kevin Garnett,United States,7,10,Basketball,2002,23,Yes
+Kobe Bryant,United States,9,>10,Basketball,2002,22,Yes
+Jacques Villeneuve,Canada,10,>10,NASCAR,2002,20,Yes
+Jeff Gordon,United States,10,>10,NASCAR,2002,20,Yes
+Tiger Woods,United States,1,1,Golf,2003,78,No
+Michael Schumacher,Germany,2,2,F1 Racing,2003,75,Yes
+Michael Jordan,United States,3,3,Basketball,2003,35,Yes
+Shaq O'Neal,United States,4,5,Basketball,2003,30.5,Yes
+Oscar De La Hoya,United States,5,>10,Boxing,2003,30,No
+Kevin Garnett,United States,6,7,Basketball,2003,28,Yes
+Alex Rodriguez,United States,7,>10,Baseball,2003,26,Yes
+Grant Hill,United States,8,5,Basketball,2003,25.5,Yes
+Andre Agassi,United States,9,>10,Tennis,2003,24,No
+Jacques Villeneuve,Canada,10,10,NASCAR,2003,23,Yes
+Tiger Woods,United States,1,1,Golf,2004,80.3,No
+Michael Schumacher,Germany,2,2,F1 Racing,2004,80,Yes
+Peyton Manning,United States,3,>10,American Football,2004,42,Yes
+Michael Jordan,United States,4,3,Basketball,2004,35,Yes
+Shaquille O'Neal,United States,5,4,Basketball,2004,31.9,Yes
+Kevin Garnett,United States,6,6,Basketball,2004,29.7,Yes
+Andre Agassi,United States,7,9,Tennis,2004,28.2,No
+David Beckham,United Kingdom,8,>10,Soccer,2004,28,Yes
+Alex Rodriguez,United States,9,7,Baseball,2004,26.2,Yes
+Kobe Bryant,United States,10,>10,Basketball,2004,26.1,Yes
+Tiger Woods,United States,1,1,Golf,2005,87,No
+Michael Schumacher,Germany,2,2,F1 Racing,2005,60,Yes
+Oscar De La Hoya,United States,3,>10,Boxing,2005,38,No
+Michael Vick,United States,4,>10,American Football,2005,37.5,Yes
+Shaquille O'Neal,United States,5,5,Basketball,2005,33.4,Yes
+Michael Jordan,United States,6,4,Basketball,2005,33,Yes
+David Beckham,United Kingdom,7,8,Soccer,2005,32.5,Yes
+Kobe Bryant,United States,8,10,Basketball,2005,28.8,Yes
+Lance Armstrong,United States,9,>10,Cycling,2005,28,Yes
+Valentino Rossi,Italy,9,>10,Motorcycle GP,2005,28,Yes
+Tiger Woods,United States,1,1,Golf,2006,90,No
+Michael Schumacher,Germany,2,2,F1 Racing,2006,58,Yes
+Muhammad Ali,United States,3,>10,Boxing,2006,55,No
+Phil Mickelson,United States,4,>10,Golf,2006,47,No
+Michael Jordan,United States,5,6,Basketball,2006,32,Yes
+Kobe Bryant,United States,6,8,Basketball,2006,31,Yes
+Shaquille O'Neal,United States,7,5,Basketball,2006,30,Yes
+Valentino Rossi,Italy,8,9,Motorcycle GP,2006,30,Yes
+Alex Rodriguez,United States,9,>10,Baseball,2006,29,Yes
+Tom Brady,United States,9,>10,American Football,2006,29,Yes
+Tiger Woods,United States,1,1,Golf,2007,100,No
+Oscar De La Hoya,United States,2,>10,Boxing,2007,43,No
+Phil Mickelson,United States,3,4,Golf,2007,42,No
+Kimi Raikkonen,Finland,4,>10,F1 Racing,2007,40,Yes
+Michael Schumacher,Germany,5,2,F1 Racing,2007,36,Yes
+David Beckham,United Kingdom,6,>10,Soccer,2007,33,Yes
+Kobe Bryant,United States,6,>10,Basketball,2007,33,Yes
+Shaquille O'Neal,United States,8,7,Basketball,2007,32,Yes
+Ronaldinho,Brazil,9,>10,Soccer,2007,31,Yes
+Michael Jordan,United States,9,5,Basketball,2007,31,Yes
+Tiger Woods,United States,1,1,Golf,2008,115,No
+David Beckham,United Kingdom,2,6,Soccer,2008,50,Yes
+Michael Jordan,United States,3,9,Basketball,2008,45,Yes
+Phil Mickelson,United States,3,3,Golf,2008,45,No
+Kimi Raikkonen,Finland,5,4,F1 Racing,2008,44,Yes
+Kobe Bryant,United States,6,7,Basketball,2008,39,Yes
+LeBron James,United States,7,>10,Basketball,2008,38,Yes
+Ronaldinho,Brazil,8,9,Soccer,2008,37,Yes
+Valentino Rossi,Italy,9,>10,Motorcycle GP,2008,35,Yes
+Roger Federer,Switzerland,9,>10,Tennis,2008,35,No
+Tiger Woods,United States,1,1,Golf,2009,110,No
+Kobe Bryant,United States,2,6,Basketball,2009,45,Yes
+Michael Jordan,United States,2,3,Basketball,2009,45,Yes
+Kimi Raikkonen,Finland,2,5,F1 Racing,2009,45,Yes
+David Beckham,United Kingdom,5,2,Soccer,2009,42,Yes
+LeBron James,United States,6,7,Basketball,2009,40,Yes
+Phil Mickelson,United States,6,3,Golf,2009,40,No
+Manny Pacquiao,Philippines,6,>10,Boxing,2009,40,No
+Valentino Rossi,Italy,9,9,Motorcycle GP,2009,35,Yes
+Dale Earnhardt Jr.,United States,10,>10,NASCAR,2009,34,Yes
+Tiger Woods,United States,1,1,Golf,2010,105,No
+Floyd Mayweather,United States,2,>10,Boxing,2010,65,No
+Kobe Bryant,United States,3,2,Basketball,2010,48,Yes
+Phil Mickelson,United States,4,6,Golf,2010,46,No
+David Beckham,United Kingdom,5,5,Soccer,2010,43.7,Yes
+Roger Federer,Switzerland,6,>10,Tennis,2010,43,No
+LeBron James,United States,7,6,Basketball,2010,42.8,Yes
+Manny Pacquiao,Philippines,8,6,Boxing,2010,42,No
+Eli Manning,United States,9,>10,American Football,2010,39.9,Yes
+Terrell Suggs,United States,10,>10,American Football,2010,38.3,Yes
+Tiger Woods,United States,1,1,Golf,2011,75,No
+Kobe Bryant,United States,2,3,Basketball,2011,53,Yes
+LeBron James,United States,3,7,Basketball,2011,48,Yes
+Roger Federer,Switzerland,4,6,Tennis,2011,47,No
+Phil Mickelson,United States,5,4,Golf,2011,46.5,No
+David Beckham,United Kingdom,6,5,Soccer,2011,40,Yes
+Cristiano Ronaldo,Portugal,7,13,Soccer,2011,38,Yes
+Alex Rodriguez,Dominican Republic,8,12,Baseball,2011,35,Yes
+Michael Schumacher,Germany,9,>20,F1 Racing,2011,34,Yes
+Lionel Messi,Argentina,10,>20,Soccer,2011,32.3,Yes
+Floyd Mayweather,United States,1,?,Boxing,2012,85,No
+Manny Pacquiao,Philippines,2,24,Boxing,2012,62,No
+Tiger Woods,United States,3,1,Golf,2012,59.4,No
+LeBron James,United States,4,3,Basketball,2012,53,Yes
+Roger Federer,Switzerland,5,4,Tennis,2012,52.7,No
+Kobe Bryant,United States,6,2,Basketball,2012,52.3,Yes
+Phil Mickelson,United States,7,5,Golf,2012,47.8,No
+David Beckham,United Kingdom,8,6,Soccer,2012,46,Yes
+Cristiano Ronaldo,Portugal,9,21,Soccer,2012,42.5,Yes
+Peyton Manning,United States,10,7,American Football,2012,42.4,Yes
+Tiger Woods,United States,1,3,Golf,2013,78.1,No
+Roger Federer,Switzerland,2,5,Tennis,2013,71.5,No
+Kobe Bryant,United States,3,6,Basketball,2013,61.9,Yes
+LeBron James,United States,4,4,Basketball,2013,59.8,Yes
+Drew Brees,United States,5,?,American Football,2013,51,Yes
+Aaron Rodgers,United States,6,?,American Football,2013,49,Yes
+Phil Mickelson,United States,7,7,Golf,2013,48.7,No
+David Beckham,United Kingdom,8,8,Soccer,2013,47.2,Yes
+Cristiano Ronaldo,Portugal,9,9,Soccer,2013,44,Yes
+Lionel Messi,Argentina,10,11,Soccer,2013,41.3,Yes
+Floyd Mayweather,United States,1,14,Boxing,2014,105,No
+Cristiano Ronaldo,Portugal,2,9,Soccer,2014,80,Yes
+LeBron James,United States,3,4,Basketball,2014,72.3,Yes
+Lionel Messi,Argentina,4,10,Soccer,2014,64.7,Yes
+Kobe Bryant,United States,5,3,Basketball,2014,61.5,Yes
+Tiger Woods,United States,6,1,Golf,2014,61.2,No
+Roger Federer,Switzerland,7,2,Tennis,2014,56.2,No
+Phil Mickelson,United States,8,7,Golf,2014,53.2,No
+Rafael Nadal,Spain,9,>14,Tennis,2014,44.5,No
+Matt Ryan,United States,10,>100,American Football,2014,43.8,Yes
+Floyd Mayweather,United States,1,1,Boxing,2015,300,No
+Manny Pacquiao,Philippines,2,11,Boxing,2015,160,No
+Cristiano Ronaldo,Portugal,3,2,Soccer,2015,79.6,Yes
+Lionel Messi,Argentina,4,4,Soccer,2015,73.8,Yes
+Roger Federer,Switzerland,5,7,Tennis,2015,67,No
+LeBron James,United States,6,3,Basketball,2015,64.8,Yes
+Kevin Durant,United States,7,20,Basketball,2015,54.2,Yes
+Phil Mickelson,United States,8,8,Golf,2015,50.8,No
+Tiger Woods,United States,9,6,Golf,2015,50.6,No
+Kobe Bryant,United States,10,5,Basketball,2015,49.5,Yes
+Cristiano Ronaldo,Portugal,1,3,Soccer,2016,88,Yes
+Lionel Messi,Argentina,2,4,Soccer,2016,81.4,Yes
+LeBron James,United States,3,6,Basketball,2016,77.2,Yes
+Roger Federer,Switzerland,4,5,Tennis,2016,67.8,No
+Kevin Durant,United States,5,7,Basketball,2016,56.2,Yes
+Novak Djokovic,Serbia,6,13,Tennis,2016,55.8,No
+Cam Newton,United States,7,>20,American Football,2016,53.1,Yes
+Phil Mickelson,United States,8,8,Golf,2016,52.9,No
+Jordan Spieth,United States,9,>20,Golf,2016,52.8,No
+Kobe Bryant,United States,10,10,Basketball,2016,50,Yes
+Cristiano Ronaldo,Portugal,1,1,Soccer,2017,93,Yes
+LeBron James,United States,2,3,Basketball,2017,86.2,Yes
+Lionel Messi,Argentina,3,2,Soccer,2017,80,Yes
+Roger Federer,Switzerland,4,4,Tennis,2017,64,No
+Kevin Durant,United States,5,5,Basketball,2017,60.6,Yes
+Andrew Luck,United States,6,,American Football,2017,50,Yes
+Rory McIlroy,Ireland,6,17,Golf,2017,50,No
+Stephen Curry,United States,8,,Basketball,2017,47.3,Yes
+James Harden,United States,9,,Basketball,2017,46.6,Yes
+Lewis Hamilton,United Kingdom,10,,NASCAR,2017,46,Yes
+Floyd Mayweather,United States,1,>100,Boxing,2018,285,No
+Lionel Messi,Argentina,2,3,Soccer,2018,111,Yes
+Cristiano Ronaldo,Portugal,3,1,Soccer,2018,108,Yes
+Conor McGregor,Ireland,4,24,MMA,2018,99,No
+Neymar,Brazil,5,18,Soccer,2018,90,Yes
+LeBron James,United States,6,2,Basketball,2018,85.5,Yes
+Roger Federer,Switzerland,7,4,Tennis,2018,77.2,No
+Stephen Curry,United States,8,8,Basketball,2018,76.9,Yes
+Matt Ryan,United States,9,>100,American Football,2018,67.3,Yes
+Matthew Stafford,United States,10,>100,American Football,2018,59.5,Yes
+Lionel Messi,Argentina,1,2,Soccer,2019,127,Yes
+Cristiano Ronaldo,Portugal,2,3,Soccer,2019,109,Yes
+Neymar,Brazil,3,5,Soccer,2019,105,Yes
+Canelo Alvarez,Mexico,4,15,Boxing,2019,94,No
+Roger Federer,Switzerland,5,7,Tennis,2019,93.4,No
+Russell Wilson,United States,6,??,American Football,2019,89.5,Yes
+Aaron Rogers,United States,7,??,American Football,2019,89.3,Yes
+LeBron James,United States,8,6,Basketball,2019,89,Yes
+Stephen Curry,United States,9,8,Basketball,2019,79.8,Yes
+Kevin Durant,United States,10,11,Basketball,2019,65.4,Yes
+Roger Federer,Switzerland,1,5,Tennis,2020,106.3,No
+Cristiano Ronaldo,Portugal,2,2,Soccer,2020,105,Yes
+Lionel Messi,Argentina,3,1,Soccer,2020,104,Yes
+Neymar,Brazil,4,3,Soccer,2020,95.5,Yes
+LeBron James,United States,5,8,Basketball,2020,88.2,Yes
+Stephen Curry,United States,6,9,Basketball,2020,74.4,Yes
+Kevin Durant,United States,7,10,Basketball,2020,63.9,Yes
+Tiger Woods,United States,8,11,Golf,2020,62.3,No
+Kirk Cousins,United States,9,>100,American Football,2020,60.5,Yes
+Carson Wentz,United States,10,>100,American Football,2020,59.1,Yes
